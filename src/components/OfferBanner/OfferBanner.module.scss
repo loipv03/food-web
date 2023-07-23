@@ -1,0 +1,17 @@
+.offer_banner {
+  width: 100%;
+  margin: 10px auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 20px;
+
+  img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .offer_banner {
+    padding: 0 20px;
+  }
+}

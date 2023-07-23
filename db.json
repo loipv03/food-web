@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Pizza",
+      "price": 10,
+      "description": "Pizza là một loại bánh tròn, dẹt được làm từ bột mì, nước và men, sau đó được nướng với nước sốt cà chua và phô mai. Pizza có thể được thêm nhiều loại nhân khác nhau, chẳng hạn như thịt, rau củ, hải sản,...",
+      "id": 1,
+      "categoryId": 1,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0a/0a/Pizza_Margherita.jpg/1200px-Pizza_Margherita.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pizza_pepperoni.jpg/1200px-Pizza_pepperoni.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pizza_Hawaiian.jpg/1200px-Pizza_Hawaiian.jpg"
+      ]
+    },
+    {
+      "name": "Hamburger",
+      "price": 5,
+      "description": "Hamburger là một loại bánh mì kẹp thịt được làm từ thịt bò xay, bánh mì kẹp, rau củ và nước sốt. Hamburger là một món ăn phổ biến ở nhiều quốc gia trên thế giới.",
+      "id": 2,
+      "categoryId": 1,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hamburger_%28%22Lidl-Burger%22%29.jpg/1200px-Hamburger_%28%22Lidl-Burger%22%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cheeseburger_%28%22McDonald%27s%22%29.jpg/1200px-Cheeseburger_%28%22McDonald%27s%22%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Vegetarian_burger.jpg/1200px-Vegetarian_burger.jpg"
+      ]
+    },
+    {
+      "name": "Pasta",
+      "price": 3,
+      "description": "Pasta là một loại mì ống được làm từ bột mì, nước và muối. Pasta có thể được nấu theo nhiều cách khác nhau và ăn kèm với nhiều loại nước sốt khác nhau, chẳng hạn như nước sốt cà chua, nước sốt pesto, nước sốt Alfredo,...",
+      "id": 3,
+      "categoryId": 2,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Penne_alla_arrabbiata.jpg/1200px-Penne_alla_arrabbiata.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fettuccine_Alfredo.jpg/1200px-Fettuccine_Alfredo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Spaghetti_bolognese.jpg/1200px-Spaghetti_bolognese.jpg"
+      ]
+    },
+    {
+      "name": "Salad",
+      "price": 2,
+      "description": "Salad là một món ăn được làm từ rau củ, trái cây và các loại hạt. Salad có thể được ăn kèm với nhiều loại nước sốt khác nhau, chẳng hạn như giấm, dầu ô liu, mật ong,... Salad là một món ăn tốt cho sức khỏe vì nó chứa nhiều chất xơ và vitamin.",
+      "id": 4,
+      "categoryId": 3,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Caprese_salad.jpg/1200px-Caprese_salad.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Grilled_chicken_salad_with_blueberries_and_cranberries.jpg/1200px-Grilled_chicken_salad_with_blueberries_and_cranberries.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Greek_salad.jpg/1200px-Greek_salad.jpg"
+      ]
+    }
+  ]
+}

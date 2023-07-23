@@ -1,0 +1,32 @@
+.about_banner {
+  width: 100%;
+  position: relative;
+
+  img {
+    width: 100%;
+    border-radius: 20px;
+  }
+
+  .btn {
+    width: clamp(50px, 10%, 25%);
+    height: clamp(20px, 40px, 100px);
+    background-color: #274c5b;
+    position: absolute;
+    bottom: 22%;
+    left: 50%;
+    font-size: 1.4rem;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+}
+
+@media (max-width: 767px) {
+  .about_banner {
+    .btn {
+      height: 20px;
+      border-radius: 5px;
+    }
+  }
+}
